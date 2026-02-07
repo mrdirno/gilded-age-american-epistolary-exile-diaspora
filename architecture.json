@@ -1,0 +1,160 @@
+{
+  "book_id": "gilded-age-american-epistolary-exile-diaspora",
+  "title": "The Gilded Exile",
+  "tagline": "A woman's banishment becomes a journey of self-discovery through letters, linking the fading opulence of America to the rigid class of Victorian England.",
+  "target_words": 70000,
+  "actual_words": 73311,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Forced Displacement & Erasure",
+    "The Epistolary Self",
+    "Diaspora of the Gilded Ruined",
+    "Reinvention vs. Inheritance"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Warrant",
+      "words": 3055
+    },
+    {
+      "ch": 2,
+      "title": "Liquidation",
+      "words": 3055
+    },
+    {
+      "ch": 3,
+      "title": "The Crossing",
+      "words": 3055
+    },
+    {
+      "ch": 4,
+      "title": "Mr. Finch",
+      "words": 3055
+    },
+    {
+      "ch": 5,
+      "title": "Bloomsbury",
+      "words": 3055
+    },
+    {
+      "ch": 6,
+      "title": "Mrs. Thorne",
+      "words": 3055
+    },
+    {
+      "ch": 7,
+      "title": "The First Letter Unsent",
+      "words": 3055
+    },
+    {
+      "ch": 8,
+      "title": "A Voice from Chicago",
+      "words": 3055
+    },
+    {
+      "ch": 9,
+      "title": "The American Club",
+      "words": 3055
+    },
+    {
+      "ch": 10,
+      "title": "Portrait of a Brother",
+      "words": 3055
+    },
+    {
+      "ch": 11,
+      "title": "The Colonel's Legacy",
+      "words": 3055
+    },
+    {
+      "ch": 12,
+      "title": "A Thread to Rhinebeck",
+      "words": 3055
+    },
+    {
+      "ch": 13,
+      "title": "The Foundling Letter",
+      "words": 3055
+    },
+    {
+      "ch": 14,
+      "title": "Confessions in Ink",
+      "words": 3055
+    },
+    {
+      "ch": 15,
+      "title": "The Market for Memories",
+      "words": 3055
+    },
+    {
+      "ch": 16,
+      "title": "A Proposal of Sorts",
+      "words": 3055
+    },
+    {
+      "ch": 17,
+      "title": "The Fire in the Grate",
+      "words": 3055
+    },
+    {
+      "ch": 18,
+      "title": "Dossier",
+      "words": 3055
+    },
+    {
+      "ch": 19,
+      "title": "The Debt",
+      "words": 3055
+    },
+    {
+      "ch": 20,
+      "title": "Breaking the Seal",
+      "words": 3055
+    },
+    {
+      "ch": 21,
+      "title": "The Last Brownstone",
+      "words": 3055
+    },
+    {
+      "ch": 22,
+      "title": "Not an Ending",
+      "words": 3055
+    },
+    {
+      "ch": 23,
+      "title": "The Archive Begins",
+      "words": 3055
+    },
+    {
+      "ch": 24,
+      "title": "Postmark: Unknown",
+      "words": 3055
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a letter from Mrs. O'Hara to Elara, sent six months after her departure, describing what became of the brownstone and the neighborhood gossip.",
+      "Compose the single diary entry of Silas Vance written on the night he sent the ticket and bank draft.",
+      "Draft the 'letter of character' provided by the lawyer, Mr. Henderson, to Alistair Finch, revealing what New York society whispers about the Vance family.",
+      "Write a letter from another 'companion' in London, a Scottish woman displaced by the Clearances, offering Elara a different perspective on exile and service."
+    ],
+    "technical": [
+      "Build an interactive map tracing Elara's journey from New York to London, with clickable locations that reveal fragments of letters, historical context, or sensory descriptions.",
+      "Create a 'Gilded Age Letter Generator' that produces period-appropriate correspondence based on variables like social class, relationship, and underlying tension, using vocabulary from the novel."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Edith Wharton",
+      "W.E.B. Du Bois",
+      "Samuel Beckett",
+      "Toni Morrison"
+    ]
+  },
+  "cover_prompt": "A young woman in a sumptuous but slightly frayed Gilded Age gown stands on a windswept coastal cliff, her back to the viewer as she releases a bundle of handwritten letters that scatter like birds into the grey sky, their pages fluttering against a backdrop where a fading, ornate American mansion half-dissolves into the stern, grey stone facade of an English manor house. The scene is imbued with a profound sense of loss and transition, with symbolic details like a tarnished piece of jewelry in the grass and a single, resilient wildflower growing from a crack in the cliff, merging the opulent decay of one world with the rigid austerity of the next, in the atmospheric style of a Pre-Raphaelite narrative painting combined with the muted, emotional realism of Edward Hopper. Book cover framing, centered and intimate yet vast in implication, viewed from a low, dramatic angle that emphasizes the vast, empty ocean horizon and the woman's solitary, determined silhouette against the tumultuous sky. Chiaroscuro lighting with a single, cold beam of sunlight breaking through storm clouds, casting a gilded edge on the letters and her gown, within a melancholic color palette of leaden greys, deep navy, faded gold, and muted burgundy. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
