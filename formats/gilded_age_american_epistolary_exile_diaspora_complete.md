@@ -1,6 +1,9 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
-The letter arrived on a Tuesday, smelling of coal smoke and damp wool. It was delivered not by the postman, but by a boy of about twelve with a face smudged with soot and eyes that held the flat, assessing sheen of river water. He thrust the thick, cream-colored envelope into my hand without a word, turned on his heel, and was swallowed by the fog that clung to the cobblestones of Fourteenth Street like a second skin.
+The first thing she noticed, as the carriage wheels crunched over the crushed oyster shells of the drive for the last time, was the silence of the gilding. The morning sun struck the newel posts, the ceiling medallions, the useless, exquisite fluting along the porch—all that meticulously applied gold leaf her father had bankrupted them to acquire—and it gave back no sound, no warmth, only a cold, perfect sheen. It was a façade that absorbed farewells. Amelia did not look back; she adjusted her gloves, felt the weight of the blank stationery in her portmanteau, and prepared to inscribe her exile onto its pristine surface.
+
 
 I stood on the top step of the brownstone, the chill of the stone seeping through the thin soles of my house shoes. My name was written across the front in a hand I knew as well as my own, yet hadn’t seen in seven years: *Miss Elara Vance*. The ink was a severe, unforgiving black. The paper was heavy, expensive, the kind that whispered of boardrooms and private clubs. It was all wrong. Correspondence from my brother, Silas, when it came—a brittle Christmas note, a terse line on my birthday—always arrived on thin, utilitarian sheets, the script hurried, the postage from some new city: Chicago, St. Louis, Denver. This envelope was from New York. It felt like a warrant.
 
@@ -91,6 +94,8 @@ I sat on the edge of the bed, the gentle, rising-and-falling motion of the ship 
 I opened it to the first page. The ship creaked around me. Somewhere, a bell rang. I uncapped my pen.
 
 *Tuesday. Aboard the Oceanic. The sky and the sea are the same shade of lead. America is gone. I am a sentence written in water.*
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -209,6 +214,8 @@ I took out my notebook and my pen. The wind tried to snatch the pages. I turned 
 *A man at the next table tonight was talking of ‘disruptive technologies.’ He meant steam turbines, electrical grids. I think the most disruptive technology is a one-way ticket. It dismantles a life with terrifying efficiency.*
 
 *I am not who I was. I am not yet who I will be. I am in the hyphen between the two.*
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
