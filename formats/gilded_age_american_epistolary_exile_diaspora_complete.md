@@ -2,7 +2,8 @@
 
 ## **CHAPTER 1**
 
-The first thing she noticed, as the carriage wheels crunched over the crushed oyster shells of the drive for the last time, was the silence of the gilding. The morning sun struck the newel posts, the ceiling medallions, the useless, exquisite fluting along the porch—all that meticulously applied gold leaf her father had bankrupted them to acquire—and it gave back no sound, no warmth, only a cold, perfect sheen. It was a façade that absorbed farewells. Amelia did not look back; she adjusted her gloves, felt the weight of the blank stationery in her portmanteau, and prepared to inscribe her exile onto its pristine surface.
+Mama’s last letter arrived smelling of salt and ship’s tar, the paper soft at the creases from too many hands. I read it once on the Liverpool dock, then again in the steerage gloom, my thumb tracing the stain where her tea had spilled—a brown archipelago on a sea of desperate script.
+
 
 
 I stood on the top step of the brownstone, the chill of the stone seeping through the thin soles of my house shoes. My name was written across the front in a hand I knew as well as my own, yet hadn’t seen in seven years: *Miss Elara Vance*. The ink was a severe, unforgiving black. The paper was heavy, expensive, the kind that whispered of boardrooms and private clubs. It was all wrong. Correspondence from my brother, Silas, when it came—a brittle Christmas note, a terse line on my birthday—always arrived on thin, utilitarian sheets, the script hurried, the postage from some new city: Chicago, St. Louis, Denver. This envelope was from New York. It felt like a warrant.
